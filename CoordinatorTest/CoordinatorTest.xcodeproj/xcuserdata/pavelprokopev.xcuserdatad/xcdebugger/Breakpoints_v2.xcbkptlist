@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "01BC2363-08A9-4CC3-813C-21D20B0104D0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01D9683A-54DF-45D9-A979-3A0A535046F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoordinatorTest/App/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "deeplinkStart(kind:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01D9683A-54DF-45D9-A979-3A0A535046F0 - 1d2ba8ab85be5312"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CoordinatorTest.AppCoordinator.deeplinkStart(kind: CoordinatorTest.DeeplinkKind) -&gt; ()"
+                  moduleName = "CoordinatorTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelprokopev/Documents/CoordinatorTest/CoordinatorTest/App/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+               <Location
+                  uuid = "01D9683A-54DF-45D9-A979-3A0A535046F0 - ba5aab88dbbdd46e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CoordinatorTest.AppCoordinator.deeplinkStart(kind: CoordinatorTest.DeeplinkKind) -&gt; ()"
+                  moduleName = "CoordinatorTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelprokopev/Documents/CoordinatorTest/CoordinatorTest/App/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "01D9683A-54DF-45D9-A979-3A0A535046F0 - 1d2ba8ab85be52ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CoordinatorTest.AppCoordinator.deeplinkStart(kind: CoordinatorTest.DeeplinkKind) -&gt; ()"
+                  moduleName = "CoordinatorTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelprokopev/Documents/CoordinatorTest/CoordinatorTest/App/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "01D9683A-54DF-45D9-A979-3A0A535046F0 - ba5aab88dbbdd590"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CoordinatorTest.AppCoordinator.deeplinkStart(kind: CoordinatorTest.DeeplinkKind) -&gt; ()"
+                  moduleName = "CoordinatorTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelprokopev/Documents/CoordinatorTest/CoordinatorTest/App/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "01D9683A-54DF-45D9-A979-3A0A535046F0 - 6bc2281a7abf9110"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CoordinatorTest.AppCoordinator.deeplinkStart(kind: CoordinatorTest.DeeplinkKind) -&gt; ()"
+                  moduleName = "CoordinatorTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelprokopev/Documents/CoordinatorTest/CoordinatorTest/App/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1164">
+               </Location>
+               <Location
+                  uuid = "01D9683A-54DF-45D9-A979-3A0A535046F0 - 88f12b7fb8831994"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #1 @Sendable () async -&gt; () in CoordinatorTest.AppCoordinator.deeplinkStart(kind: CoordinatorTest.DeeplinkKind) -&gt; ()"
+                  moduleName = "CoordinatorTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavelprokopev/Documents/CoordinatorTest/CoordinatorTest/App/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "440">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
